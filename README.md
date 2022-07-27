@@ -1,8 +1,12 @@
-Research in the Jones lab examines the factors that influence animal foraging decisions including perception, learning, social learning, and memory. 
-With a particular emphasis on the role of animal cognition in shaping ecological communities. 
-Research is split between bumblebees in the lab at Bowdoin and with a range of pollinater taxa in the field on Kent Island.
+Hi All! This is the official GitHub page for the Patricia Jones lab at Bowdoin College. 
 
-For questions about our research or the code posted here contact Patty Jones at pjones3@bowdoin.edu
+Research in the Jones lab examines the factors that influence animal foraging decisions including perception, learning, social learning, and memory. 
+Specifically, our research focuses on the role of animal cognition in shaping ecological communities. 
+Experimentation is split between populations of bumblebees in the lab at Bowdoin and populations of a range pollinators in the field on Kent Island.
+
+For questions about our research, contact Patty Jones at pjones3@bowdoin.edu
+
+For questions concerning the code posted here, contact Reed Warburton at rwarburt@bowdoin.edu
 
 <!---
 JonesLabBowdoin/JonesLabBowdoin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
