@@ -1,4 +1,4 @@
-Hi All! This is the official GitHub page for the Patricia Jones lab at Bowdoin College. 
+Hi All! This is the official GitHub page for the Jones lab at Bowdoin College. 
 
 Research in the Jones lab examines the factors that influence animal foraging decisions including perception, learning, social learning, and memory. 
 Specifically, our research focuses on the role of animal cognition in shaping ecological communities. 
